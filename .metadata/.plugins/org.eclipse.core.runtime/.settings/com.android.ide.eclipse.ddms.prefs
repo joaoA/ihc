@@ -1,0 +1,9 @@
+#Wed May 16 03:28:14 WEST 2012
+logcat.view.colsize.Level=22
+logcat.view.display.filters=false
+eclipse.preferences.version=1
+logcat.view.colsize.Application=33
+logcat.view.colsize.Time=45
+logcat.view.colsize.Tag=41
+logcat.view.colsize.Text=674
+logcat.view.colsize.PID=54
